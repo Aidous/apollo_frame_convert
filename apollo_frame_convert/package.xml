@@ -1,0 +1,8 @@
+<package format="2">
+    <name>apollo_frame_convert</name>
+    <description>apollo apollo_frame_convert module</description>
+    <maintainer email="abc@abc.com">abc</maintainer>
+    <license>Apache 2.0</license>
+    <version>3.0.0</version>
+    <buildtool_depend>catkin</buildtool_depend>
+  </package>
